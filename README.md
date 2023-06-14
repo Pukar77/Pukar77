@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Pukar Rimal</h1>
 <h3 align="center">Quitting was never an option</h3>
-<img align="right" alt="Coding" width="400" src="https://www.seekpng.com/png/detail/504-5043467_hire-laravel-developers-transparent-png.png">
+<img align="right" alt="Coding" width="200" src="https://www.seekpng.com/png/detail/504-5043467_hire-laravel-developers-transparent-png.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pukar77&label=Profile%20views&color=0e75b6&style=flat" alt="pukar77" /> </p>
 
