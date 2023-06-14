@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-[![MasterHead(https://www.oneindia.com/img/1200x60x675/2021/07/c99b954e-90c6-426c-8013-32f99af7d756-1626943000.jpg)](https://Pukar77.io)
+
 <h1 align="center">Hi 👋, I'm Pukar Rimal</h1>
 <h3 align="center">Quitting was never an option</h3>
 <img align="right" alt="Coding" width="400" src="https://www.seekpng.com/png/detail/504-5043467_hire-laravel-developers-transparent-png.png">
@@ -46,4 +46,6 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pukar77&show_icons=true&locale=en" alt="pukar77" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pukar77&" alt="pukar77" /></p>
+
+
 
