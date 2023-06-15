@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h3 align="center">Quitting was never an option</h3>
 <img align="right" alt="Coding" width="300" src="https://www.seekpng.com/png/detail/504-5043467_hire-laravel-developers-transparent-png.png">
 
-<div align="center">
+<div align="left">
   <img src="https://profile-counter.glitch.me/aakashdhakal/count.svg?"  />
 </div>
 
