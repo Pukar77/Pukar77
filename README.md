@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Computer science**
 
-- 📝 I regularly write articles on [https://pukarwrites.blogspot.com/](Pukar Rimal Blog)
+- 📝 I regularly write articles on [https://pukarwrites.blogspot.com/]
 
 - 📫 How to reach me **pukarrimal11@gmail.com**
 
