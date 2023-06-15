@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 <h3 align="center">Quitting was never an option</h3>
 <img align="right" alt="Coding" width="300" src="https://www.seekpng.com/png/detail/504-5043467_hire-laravel-developers-transparent-png.png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pukar77&label=Profile%20views&color=0e75b6&style=flat" alt="pukar77" /> </p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/aakashdhakal/count.svg?"  />
+</div>
 
 <p align="left"> <a href="https://twitter.com/@pukar_rimal" target="blank"><img src="https://img.shields.io/twitter/follow/@pukar_rimal?logo=twitter&style=for-the-badge" alt="@pukar_rimal" /></a> </p>
 
