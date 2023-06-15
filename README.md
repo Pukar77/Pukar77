@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <img align="right" alt="Coding" width="300" src="https://www.seekpng.com/png/detail/504-5043467_hire-laravel-developers-transparent-png.png">
 
 <div align="left">
-  <img src="https://profile-counter.glitch.me/aakashdhakal/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/Pukar77/count.svg?"  />
 </div>
 
 <p align="left"> <a href="https://twitter.com/@pukar_rimal" target="blank"><img src="https://img.shields.io/twitter/follow/@pukar_rimal?logo=twitter&style=for-the-badge" alt="@pukar_rimal" /></a> </p>
