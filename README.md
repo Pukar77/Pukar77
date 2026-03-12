@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Computer Science And Information Technology**
 
-- 📝 I regularly write articles on [https://pukarwrites.blogspot.com/]
+- 📝 I regularly write articles on [https://medium.com/@pukarrimal11]
 
 - 📫 How to reach me **pukarrimal11@gmail.com**
 
