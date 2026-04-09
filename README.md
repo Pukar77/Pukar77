@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Computer Science And Information Technology**
   
-- 📝 My Portfolio [https://pukarrimal.com.np]
-- - 📝 I regularly write articles on [https://medium.com/@pukarrimal11]
+- 💼 Discover My Work Through My Portfolio: [https://pukarrimal.com.np]
+- 📝 I regularly write articles on [https://medium.com/@pukarrimal11]
 
 - 📫 How to reach me **pukarrimal11@gmail.com**
 
