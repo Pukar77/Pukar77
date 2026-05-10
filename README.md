@@ -34,7 +34,7 @@
 name: Pukar Rimal
 location: Nepal 🇳🇵
 education: Computer Science & Information Technology
-focus: Full-Stack Development
+focus: AI/ML Engineering
 motto: "Quitting was never an option"
 ```
 
