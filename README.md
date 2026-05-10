@@ -106,9 +106,8 @@ motto: "Quitting was never an option"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pukar77&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&border_radius=10&border_color=7B2FBE&order=1" height="160" alt="stats graph" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pukar77&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&border_radius=10&border_color=7B2FBE&order=2" height="160" alt="languages graph" />
+
 
 <br/>
 
